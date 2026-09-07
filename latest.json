@@ -1,8 +1,8 @@
 {
     "schema_version":  1,
     "channel":  "stable",
-    "version":  "v1.66",
-    "url":  "https://github.com/euisun0325-png/shop-ops-updates/releases/download/v1.66/shop_ops_UPDATE_v1.66.zip",
-    "sha256":  "4621b6034e0f9ca6a64e9d4db0184e13ce3232079e19c689d5ef36a0411ceacd",
-    "published_at":  "2026-09-07T13:52:58.6645218+09:00"
+    "version":  "v1.67",
+    "url":  "https://github.com/euisun0325-png/shop-ops-updates/releases/download/v1.67/shop_ops_UPDATE_v1.67.zip",
+    "sha256":  "3f4fb5e18cec2cbfcd29b4de3cef88a03787f2b72aa1a432974af96e2d8d1f26",
+    "published_at":  "2026-09-07T14:19:58.6063218+09:00"
 }
